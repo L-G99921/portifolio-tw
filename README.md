@@ -36,7 +36,7 @@ Minha experiência em desenvolvimento de software me permite criar documentaçõ
 - **Tutoriais e Guias de Início Rápido:** Criação de tutoriais passo a passo que ajudam novos usuários a se familiarizarem rapidamente com as ferramentas e tecnologias.
 
 ## Contato
-- **Email:** lgos9921@gmail.com.br
+- **Email:** lgos99921@gmail.com.br
 - **LinkedIn:** [Leandro Gabriel](https://www.linkedin.com/in/leandro-gabriel-8aab31167/)
 - **GitHub:** [leandro-gabriel](https://github.com/L-G99921)
 
